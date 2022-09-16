@@ -1,0 +1,5 @@
+size,name,price,flavor,frosting,sprinkles,filling
+jumbo,Triple Chocolate,5.99,Chocolate,Chocolate,"['Chocolate', 'Brown Sugar Crystals']",Chocolate
+regular,Key Lime Tango,3.99,Vanilla,Lime,[],Lime Crema
+regular,Everything Nice,2.99,Spice,Cream Cheese,[],Cake Whip
+mini,Neapolitan,1.99,Angel Food,Chocolate,['Strawberries'],

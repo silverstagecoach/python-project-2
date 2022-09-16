@@ -1,0 +1,11 @@
+size,name,price,flavor,frosting,sprinkles,filling
+jumbo,Triple Chocolate,5.99,Chocolate,Chocolate,"['Chocolate', 'Brown Sugar Crystals']",Chocolate
+regular,Key Lime Tango,3.99,Vanilla,Lime,[],Lime Crema
+regular,Everything Nice,2.99,Spice,Cream Cheese,[],Cake Whip
+mini,Neapolitan,0.99,Vanilla,Chocolate,"['Strawberry sprinkles']",None
+regular,Plain Jane,1.99,Yellow,None,[],None
+regular,Cookies and Cream,2.99,Chocolate,White,"['Oreo Crumbles', 'Chocolate sprinkles'],Cookies and Cream Whip
+regular,Plain John,1.99,Chocolate,None,[],None
+regular,Jane Doe,1.99,Yellow,Chocolate,[],None
+regular,John Doe,1.99,Chocolate,White,[],None
+jumbo,Texas Size,5.99,Funfetti,Chocolate,['Red, White, and Blue sprinkles'],Chocolate Whip
